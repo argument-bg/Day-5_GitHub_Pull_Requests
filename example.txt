@@ -1,2 +1,2 @@
 Main file
-On main branch an extra commit for a conflict.
+CONFLICT!
